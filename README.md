@@ -1,10 +1,9 @@
 # Data-Transmission-Laboratory
 IE0528 - Laboratorio de transmisión de datos 
 
-### Estructura de archivos:
-
-+ **informe:** anteproyectos/informe en formato PDF
-+ **src:** archivos de código fuente
+### Laboratorio #1
+#### Transmisión entre circuitos integrados
+##### Transmisión de datos entre circuitos integrados
 
 ---
 ## Integrantes:

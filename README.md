@@ -10,4 +10,5 @@ IE0528 - Laboratorio de transmisión de datos
 ## Integrantes:
 + **Marco Vásquez Ovares**
 + **Franco Castro Chaves**
++ **Roberto José Acevedo Mora**
 ---
